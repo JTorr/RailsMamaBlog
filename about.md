@@ -1,11 +1,21 @@
 ---
 layout: page
-title: About
+title: About Rails Mama
 permalink: /about/
 ---
+#A lighthearted take on life in the Tech World as a woman and mother.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+##I Blog About:
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+* Coding and Learning to Code
+* Parenting
+* Random Nonsense That Pops Into My Brain
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+## Facts About Me:
+
+* An umbilical cord runs from my fingers to a Macbook keyboard.
+* 3 years ago I acquired a giggling shadow that hangs from my shirt-tail and smells like peanut butter.
+* 5 years ago I cloned myself and forgot to swap out the “gets lost in one’s own house” gene.
+* 10 years ago I found a Sasquatch, realized he’s cotton candy on the inside, and made a pact that when we’re old, one of us will change the other one’s diapers.
+* "#{time_ago_in_words}" + "ago", I started this blog to tell the world how crazy I am.
+

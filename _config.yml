@@ -2,8 +2,7 @@
 title: Rails Mama
 email: reeddetorres@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Mother of Two Juggles Family 
-  While Learning to Code
+  A lighthearted take on life in the Tech World as a woman and mother.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://julietorres.me" # the base hostname & protocol for your site
 twitter_username: JulieTorero
